@@ -20,7 +20,7 @@ No setup or installation is required.
 - Clean and readable structure  
 
 ## Demo
-[View Live Page](https://github.com/rachitsen15/HTML-Resume-Page/) 
+https://rachitsen15.github.io/HTML-Resume-Page/
 
 ## Author
 **Rachit Sen**
